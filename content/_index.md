@@ -10,9 +10,6 @@ image:
 
 This new text, building on __Data Analysis and Graphics Using R__, is due to appear in early 22024. 
 
-T
-To create an **open second brain**, share your knowledge with others [by deploying this template](https://wowchemy.com/hugo-themes/) as a public website.
-
 ## Example notebook
 
 {{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
